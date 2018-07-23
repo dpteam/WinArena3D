@@ -1,6 +1,6 @@
 # WinArena3D
 
-This source-port is based on WinArena and has such changes:
+This clone of TESA is based on WinArena and has such changes:
 1. Nothing at that moment. Just compile fixes.
 
 Advantages:
