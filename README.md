@@ -7,7 +7,7 @@ Advantages:
 1. This port runs on NT5.x+ (XP,2003)
 
 TODO:
-1. Fix from 2 to 5 code lines, that have been changed for compile fixing.
+1. Fix from 2 to 5 code lines, that have been changed for compile fixing. (Marked as comment "// DPT: ")
 2. Test on ReactOS
 3. Add new resolutions. (Also Widescreen)
 
