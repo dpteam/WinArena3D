@@ -1,5 +1,7 @@
 # WinArena3D
 
+[![DepShield Badge](https://depshield.sonatype.org/badges/dpteam/WinArena3D/depshield.svg)](https://depshield.github.io)
+
 This clone of TESA is based on WinArena and has such changes:
 1. Nothing at that moment. Just compile fixes.
 
